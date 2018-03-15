@@ -1,0 +1,56 @@
+img {
+    width: 113px;
+    height: 157px;
+}
+
+.card {
+    cursor: pointer;
+}
+
+table td {
+    padding: 8px;
+    min-width: 113px;
+    min-height: 157px;
+}
+
+table tr {
+    min-height: 177px;
+    display: block;
+}
+
+#App {
+    width: 774px;
+}
+
+p {
+    opacity: 0.8;
+    font-size: 14px;
+    margin-top: 0;
+    display: inline-block;
+}
+
+#restart {
+    font-family: OpenSans-Semibold, sans-serif;
+    letter-spacing: -0.25px;
+    float: left;
+    margin-left: 10px;
+}
+
+#scoreTable {
+    letter-spacing: 0;
+    float: right;
+}
+
+a {
+    background-color: #1C7430;
+    padding: 0;
+    color: #FFF;
+}
+
+a:hover {
+    opacity: 1;
+}
+
+img {
+    transition-duration: 0.1s;
+}

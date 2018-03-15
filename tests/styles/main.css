@@ -1,0 +1,60 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+}
+
+#main {
+    min-height: 100%;
+}
+
+#global {
+    width: 700px;
+    max-width: 700px;
+    background-color: #cbcbcb;
+    margin: 0 auto;
+    border: 2px solid #393939;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+    border-bottom: 10px solid #000;
+}
+
+h3 {
+    text-align: center;
+}
+
+tr {
+    border: 1px solid #606060;
+    border-radius: 5px;
+    margin: 0 10px;
+}
+
+p {
+    margin-left: 10px;
+}
+
+.Rsquare {
+    width: 20px;
+    height: 20px;
+    background-color: #f00;
+}
+
+.Gsquare {
+    width: 20px;
+    height: 20px;
+    background-color: #00af00;
+}
+
+#Ppassed {
+    color: #023D00;
+}
+
+#Pfailed {
+    color: #f00;
+}
+
+.message {
+    margin-left: 20px;
+}
